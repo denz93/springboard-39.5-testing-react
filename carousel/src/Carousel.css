@@ -17,3 +17,8 @@
 .bi {
   font-size: 35px
 }
+
+.bi.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}

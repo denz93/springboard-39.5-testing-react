@@ -25,13 +25,17 @@ import Card from "./Card";
     setCurrCardIdx(currCardIdx + 1);
   }
 
+  function goBackward() {
+    setCurrCardIdx(currCardIdx - 1);
+  }
+
   return (
     <div className="Carousel">
       <h1>{title}</h1>
       <div className="Carousel-main">
         <i
-          className="bi bi-arrow-left-circle"
-          onClick={goForward}
+          className={`bi bi-arrow-left-circle ${currCardIdx === 0 ? "disabled" : ""}`}
+          onClick={goBackward}
         />
         <Card
           caption={currCard.caption}
@@ -40,7 +44,7 @@ import Card from "./Card";
           totalNum={total}
         />
         <i
-          className="bi bi-arrow-right-circle"
+          className={`bi bi-arrow-right-circle ${currCardIdx === total - 1 ? "disabled" : ""}`}
           onClick={goForward}
         />
       </div>
