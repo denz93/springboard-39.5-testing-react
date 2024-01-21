@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/springboard-39.5-testing-react/static/css/main.18b06d08.css",
+    "main.js": "/springboard-39.5-testing-react/static/js/main.d5782ad4.js",
+    "static/js/27.c2963d9f.chunk.js": "/springboard-39.5-testing-react/static/js/27.c2963d9f.chunk.js",
+    "static/media/tail.png": "/springboard-39.5-testing-react/static/media/tail.4f0efa5f55a20c3fd0b6.png",
+    "static/media/head.png": "/springboard-39.5-testing-react/static/media/head.bdbc55da5483791ec5ae.png",
+    "static/media/bootstrap-icons.woff?": "/springboard-39.5-testing-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/springboard-39.5-testing-react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/image1.jpg": "/springboard-39.5-testing-react/static/media/image1.08e1519e765278b10548.jpg",
+    "static/media/image2.jpg": "/springboard-39.5-testing-react/static/media/image2.e659483e4e46c66eac5c.jpg",
+    "static/media/image3.jpg": "/springboard-39.5-testing-react/static/media/image3.151fb1d63cb55d8575aa.jpg",
+    "index.html": "/springboard-39.5-testing-react/index.html",
+    "main.18b06d08.css.map": "/springboard-39.5-testing-react/static/css/main.18b06d08.css.map",
+    "main.d5782ad4.js.map": "/springboard-39.5-testing-react/static/js/main.d5782ad4.js.map",
+    "27.c2963d9f.chunk.js.map": "/springboard-39.5-testing-react/static/js/27.c2963d9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b06d08.css",
+    "static/js/main.d5782ad4.js"
+  ]
+}
